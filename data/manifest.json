@@ -1,0 +1,83 @@
+{
+  "assignments": {
+    "fields": [
+      "id",
+      "city",
+      "arm",
+      "assignment_probability",
+      "assigned_at",
+      "fallback",
+      "merchants"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "complaints": {
+    "fields": [
+      "id",
+      "unit",
+      "merchant",
+      "size",
+      "received",
+      "reviewed",
+      "appeal_won",
+      "limited",
+      "exposure"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "blind": {
+    "fields": [
+      "id",
+      "complaint",
+      "inclusion_probability",
+      "verdict",
+      "known",
+      "supersedes"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "windows": {
+    "fields": [
+      "id",
+      "city",
+      "min_maturity",
+      "shift_capacity",
+      "held_shift_hours",
+      "read_as_of"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "guardrails": {
+    "fields": [
+      "city",
+      "size",
+      "max_miss_delta",
+      "max_invalid_action_delta",
+      "confidence",
+      "staff_hours_per_check"
+    ],
+    "key": [
+      "city",
+      "size"
+    ]
+  },
+  "decisions": {
+    "fields": [
+      "id",
+      "city",
+      "kind",
+      "prior_cut"
+    ],
+    "key": [
+      "id"
+    ]
+  }
+}

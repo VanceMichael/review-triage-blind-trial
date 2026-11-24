@@ -1,0 +1,2170 @@
+[
+  {
+    "id": "bc00-00",
+    "complaint": "c00-00",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-08",
+    "supersedes": null
+  },
+  {
+    "id": "bc00-01",
+    "complaint": "c00-01",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-09",
+    "supersedes": null
+  },
+  {
+    "id": "bc00-02",
+    "complaint": "c00-02",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-10",
+    "supersedes": null
+  },
+  {
+    "id": "bc00-03",
+    "complaint": "c00-03",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-11",
+    "supersedes": null
+  },
+  {
+    "id": "bc00-04",
+    "complaint": "c00-04",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-12",
+    "supersedes": null
+  },
+  {
+    "id": "bc00-05",
+    "complaint": "c00-05",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-13",
+    "supersedes": null
+  },
+  {
+    "id": "bc00-06",
+    "complaint": "c00-06",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-14",
+    "supersedes": null
+  },
+  {
+    "id": "bc00-07",
+    "complaint": "c00-07",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-15",
+    "supersedes": null
+  },
+  {
+    "id": "bc00-08",
+    "complaint": "c00-08",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-16",
+    "supersedes": null
+  },
+  {
+    "id": "bc00-09",
+    "complaint": "c00-09",
+    "inclusion_probability": 0.66,
+    "verdict": "disputed",
+    "known": "2026-04-17",
+    "supersedes": null
+  },
+  {
+    "id": "bc00-10",
+    "complaint": "c00-10",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-18",
+    "supersedes": null
+  },
+  {
+    "id": "bc00-11",
+    "complaint": "c00-11",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-19",
+    "supersedes": null
+  },
+  {
+    "id": "bc00-12",
+    "complaint": "c00-12",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-20",
+    "supersedes": null
+  },
+  {
+    "id": "bc00-13",
+    "complaint": "c00-13",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-21",
+    "supersedes": null
+  },
+  {
+    "id": "bc00-14",
+    "complaint": "c00-14",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-22",
+    "supersedes": null
+  },
+  {
+    "id": "bc00-15",
+    "complaint": "c00-15",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-23",
+    "supersedes": null
+  },
+  {
+    "id": "bc00-16",
+    "complaint": "c00-16",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-24",
+    "supersedes": null
+  },
+  {
+    "id": "bc00-17",
+    "complaint": "c00-17",
+    "inclusion_probability": 0.66,
+    "verdict": "pending",
+    "known": "2026-04-25",
+    "supersedes": null
+  },
+  {
+    "id": "bc01-00",
+    "complaint": "c01-00",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-08",
+    "supersedes": null
+  },
+  {
+    "id": "bc01-02",
+    "complaint": "c01-02",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-10",
+    "supersedes": null
+  },
+  {
+    "id": "bc01-03",
+    "complaint": "c01-03",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-11",
+    "supersedes": null
+  },
+  {
+    "id": "bc01-05",
+    "complaint": "c01-05",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-13",
+    "supersedes": null
+  },
+  {
+    "id": "bc01-06",
+    "complaint": "c01-06",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-14",
+    "supersedes": null
+  },
+  {
+    "id": "bc01-08",
+    "complaint": "c01-08",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-16",
+    "supersedes": null
+  },
+  {
+    "id": "bc01-09",
+    "complaint": "c01-09",
+    "inclusion_probability": 0.66,
+    "verdict": "disputed",
+    "known": "2026-04-17",
+    "supersedes": null
+  },
+  {
+    "id": "bc01-11",
+    "complaint": "c01-11",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-19",
+    "supersedes": null
+  },
+  {
+    "id": "bc01-12",
+    "complaint": "c01-12",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-20",
+    "supersedes": null
+  },
+  {
+    "id": "bc01-14",
+    "complaint": "c01-14",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-22",
+    "supersedes": null
+  },
+  {
+    "id": "bc01-15",
+    "complaint": "c01-15",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-23",
+    "supersedes": null
+  },
+  {
+    "id": "bc01-17",
+    "complaint": "c01-17",
+    "inclusion_probability": 0.66,
+    "verdict": "pending",
+    "known": "2026-04-25",
+    "supersedes": null
+  },
+  {
+    "id": "bc02-00",
+    "complaint": "c02-00",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-08",
+    "supersedes": null
+  },
+  {
+    "id": "bc02-01",
+    "complaint": "c02-01",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-09",
+    "supersedes": null
+  },
+  {
+    "id": "bc02-02",
+    "complaint": "c02-02",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-10",
+    "supersedes": null
+  },
+  {
+    "id": "bc02-03",
+    "complaint": "c02-03",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-11",
+    "supersedes": null
+  },
+  {
+    "id": "bc02-04",
+    "complaint": "c02-04",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-12",
+    "supersedes": null
+  },
+  {
+    "id": "bc02-05",
+    "complaint": "c02-05",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-13",
+    "supersedes": null
+  },
+  {
+    "id": "bc02-06",
+    "complaint": "c02-06",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-14",
+    "supersedes": null
+  },
+  {
+    "id": "bc02-07",
+    "complaint": "c02-07",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-15",
+    "supersedes": null
+  },
+  {
+    "id": "bc02-08",
+    "complaint": "c02-08",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-16",
+    "supersedes": null
+  },
+  {
+    "id": "bc02-09",
+    "complaint": "c02-09",
+    "inclusion_probability": 0.66,
+    "verdict": "disputed",
+    "known": "2026-04-17",
+    "supersedes": null
+  },
+  {
+    "id": "bc02-10",
+    "complaint": "c02-10",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-18",
+    "supersedes": null
+  },
+  {
+    "id": "bc02-11",
+    "complaint": "c02-11",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-19",
+    "supersedes": null
+  },
+  {
+    "id": "bc02-12",
+    "complaint": "c02-12",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-20",
+    "supersedes": null
+  },
+  {
+    "id": "bc02-13",
+    "complaint": "c02-13",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-21",
+    "supersedes": null
+  },
+  {
+    "id": "bc02-14",
+    "complaint": "c02-14",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-22",
+    "supersedes": null
+  },
+  {
+    "id": "bc02-15",
+    "complaint": "c02-15",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-23",
+    "supersedes": null
+  },
+  {
+    "id": "bc02-16",
+    "complaint": "c02-16",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-24",
+    "supersedes": null
+  },
+  {
+    "id": "bc02-17",
+    "complaint": "c02-17",
+    "inclusion_probability": 0.66,
+    "verdict": "pending",
+    "known": "2026-04-25",
+    "supersedes": null
+  },
+  {
+    "id": "bc03-00",
+    "complaint": "c03-00",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-08",
+    "supersedes": null
+  },
+  {
+    "id": "bc03-02",
+    "complaint": "c03-02",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-10",
+    "supersedes": null
+  },
+  {
+    "id": "bc03-03",
+    "complaint": "c03-03",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-11",
+    "supersedes": null
+  },
+  {
+    "id": "bc03-05",
+    "complaint": "c03-05",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-13",
+    "supersedes": null
+  },
+  {
+    "id": "bc03-06",
+    "complaint": "c03-06",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-14",
+    "supersedes": null
+  },
+  {
+    "id": "bc03-08",
+    "complaint": "c03-08",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-16",
+    "supersedes": null
+  },
+  {
+    "id": "bc03-09",
+    "complaint": "c03-09",
+    "inclusion_probability": 0.66,
+    "verdict": "disputed",
+    "known": "2026-04-17",
+    "supersedes": null
+  },
+  {
+    "id": "bc03-11",
+    "complaint": "c03-11",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-19",
+    "supersedes": null
+  },
+  {
+    "id": "bc03-12",
+    "complaint": "c03-12",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-20",
+    "supersedes": null
+  },
+  {
+    "id": "bc03-14",
+    "complaint": "c03-14",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-22",
+    "supersedes": null
+  },
+  {
+    "id": "bc03-15",
+    "complaint": "c03-15",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-23",
+    "supersedes": null
+  },
+  {
+    "id": "bc03-17",
+    "complaint": "c03-17",
+    "inclusion_probability": 0.66,
+    "verdict": "pending",
+    "known": "2026-04-25",
+    "supersedes": null
+  },
+  {
+    "id": "bc04-00",
+    "complaint": "c04-00",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-08",
+    "supersedes": null
+  },
+  {
+    "id": "bc04-01",
+    "complaint": "c04-01",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-09",
+    "supersedes": null
+  },
+  {
+    "id": "bc04-02",
+    "complaint": "c04-02",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-10",
+    "supersedes": null
+  },
+  {
+    "id": "bc04-03",
+    "complaint": "c04-03",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-11",
+    "supersedes": null
+  },
+  {
+    "id": "bc04-04",
+    "complaint": "c04-04",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-12",
+    "supersedes": null
+  },
+  {
+    "id": "bc04-05",
+    "complaint": "c04-05",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-13",
+    "supersedes": null
+  },
+  {
+    "id": "bc04-06",
+    "complaint": "c04-06",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-14",
+    "supersedes": null
+  },
+  {
+    "id": "bc04-07",
+    "complaint": "c04-07",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-15",
+    "supersedes": null
+  },
+  {
+    "id": "bc04-08",
+    "complaint": "c04-08",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-16",
+    "supersedes": null
+  },
+  {
+    "id": "bc04-09",
+    "complaint": "c04-09",
+    "inclusion_probability": 0.66,
+    "verdict": "disputed",
+    "known": "2026-04-17",
+    "supersedes": null
+  },
+  {
+    "id": "bc04-10",
+    "complaint": "c04-10",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-18",
+    "supersedes": null
+  },
+  {
+    "id": "bc04-11",
+    "complaint": "c04-11",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-19",
+    "supersedes": null
+  },
+  {
+    "id": "bc04-12",
+    "complaint": "c04-12",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-20",
+    "supersedes": null
+  },
+  {
+    "id": "bc04-13",
+    "complaint": "c04-13",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-21",
+    "supersedes": null
+  },
+  {
+    "id": "bc04-14",
+    "complaint": "c04-14",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-22",
+    "supersedes": null
+  },
+  {
+    "id": "bc04-15",
+    "complaint": "c04-15",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-23",
+    "supersedes": null
+  },
+  {
+    "id": "bc04-16",
+    "complaint": "c04-16",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-24",
+    "supersedes": null
+  },
+  {
+    "id": "bc04-17",
+    "complaint": "c04-17",
+    "inclusion_probability": 0.66,
+    "verdict": "pending",
+    "known": "2026-04-25",
+    "supersedes": null
+  },
+  {
+    "id": "bc05-00",
+    "complaint": "c05-00",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-08",
+    "supersedes": null
+  },
+  {
+    "id": "bc05-02",
+    "complaint": "c05-02",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-10",
+    "supersedes": null
+  },
+  {
+    "id": "bc05-03",
+    "complaint": "c05-03",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-11",
+    "supersedes": null
+  },
+  {
+    "id": "bc05-05",
+    "complaint": "c05-05",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-13",
+    "supersedes": null
+  },
+  {
+    "id": "bc05-06",
+    "complaint": "c05-06",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-14",
+    "supersedes": null
+  },
+  {
+    "id": "bc05-08",
+    "complaint": "c05-08",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-16",
+    "supersedes": null
+  },
+  {
+    "id": "bc05-09",
+    "complaint": "c05-09",
+    "inclusion_probability": 0.66,
+    "verdict": "disputed",
+    "known": "2026-04-17",
+    "supersedes": null
+  },
+  {
+    "id": "bc05-11",
+    "complaint": "c05-11",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-19",
+    "supersedes": null
+  },
+  {
+    "id": "bc05-12",
+    "complaint": "c05-12",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-20",
+    "supersedes": null
+  },
+  {
+    "id": "bc05-14",
+    "complaint": "c05-14",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-22",
+    "supersedes": null
+  },
+  {
+    "id": "bc05-15",
+    "complaint": "c05-15",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-23",
+    "supersedes": null
+  },
+  {
+    "id": "bc05-17",
+    "complaint": "c05-17",
+    "inclusion_probability": 0.66,
+    "verdict": "pending",
+    "known": "2026-04-25",
+    "supersedes": null
+  },
+  {
+    "id": "bc06-00",
+    "complaint": "c06-00",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-08",
+    "supersedes": null
+  },
+  {
+    "id": "bc06-01",
+    "complaint": "c06-01",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-09",
+    "supersedes": null
+  },
+  {
+    "id": "bc06-02",
+    "complaint": "c06-02",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-10",
+    "supersedes": null
+  },
+  {
+    "id": "bc06-03",
+    "complaint": "c06-03",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-11",
+    "supersedes": null
+  },
+  {
+    "id": "bc06-04",
+    "complaint": "c06-04",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-12",
+    "supersedes": null
+  },
+  {
+    "id": "bc06-05",
+    "complaint": "c06-05",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-13",
+    "supersedes": null
+  },
+  {
+    "id": "bc06-06",
+    "complaint": "c06-06",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-14",
+    "supersedes": null
+  },
+  {
+    "id": "bc06-07",
+    "complaint": "c06-07",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-15",
+    "supersedes": null
+  },
+  {
+    "id": "bc06-08",
+    "complaint": "c06-08",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-16",
+    "supersedes": null
+  },
+  {
+    "id": "bc06-09",
+    "complaint": "c06-09",
+    "inclusion_probability": 0.66,
+    "verdict": "disputed",
+    "known": "2026-04-17",
+    "supersedes": null
+  },
+  {
+    "id": "bc06-10",
+    "complaint": "c06-10",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-18",
+    "supersedes": null
+  },
+  {
+    "id": "bc06-11",
+    "complaint": "c06-11",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-19",
+    "supersedes": null
+  },
+  {
+    "id": "bc06-12",
+    "complaint": "c06-12",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-20",
+    "supersedes": null
+  },
+  {
+    "id": "bc06-13",
+    "complaint": "c06-13",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-21",
+    "supersedes": null
+  },
+  {
+    "id": "bc06-14",
+    "complaint": "c06-14",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-22",
+    "supersedes": null
+  },
+  {
+    "id": "bc06-15",
+    "complaint": "c06-15",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-23",
+    "supersedes": null
+  },
+  {
+    "id": "bc06-16",
+    "complaint": "c06-16",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-24",
+    "supersedes": null
+  },
+  {
+    "id": "bc06-17",
+    "complaint": "c06-17",
+    "inclusion_probability": 0.66,
+    "verdict": "pending",
+    "known": "2026-04-25",
+    "supersedes": null
+  },
+  {
+    "id": "bc07-00",
+    "complaint": "c07-00",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-08",
+    "supersedes": null
+  },
+  {
+    "id": "bc07-02",
+    "complaint": "c07-02",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-10",
+    "supersedes": null
+  },
+  {
+    "id": "bc07-03",
+    "complaint": "c07-03",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-11",
+    "supersedes": null
+  },
+  {
+    "id": "bc07-05",
+    "complaint": "c07-05",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-13",
+    "supersedes": null
+  },
+  {
+    "id": "bc07-06",
+    "complaint": "c07-06",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-14",
+    "supersedes": null
+  },
+  {
+    "id": "bc07-08",
+    "complaint": "c07-08",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-16",
+    "supersedes": null
+  },
+  {
+    "id": "bc07-09",
+    "complaint": "c07-09",
+    "inclusion_probability": 0.66,
+    "verdict": "disputed",
+    "known": "2026-04-17",
+    "supersedes": null
+  },
+  {
+    "id": "bc07-11",
+    "complaint": "c07-11",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-19",
+    "supersedes": null
+  },
+  {
+    "id": "bc07-12",
+    "complaint": "c07-12",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-20",
+    "supersedes": null
+  },
+  {
+    "id": "bc07-14",
+    "complaint": "c07-14",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-22",
+    "supersedes": null
+  },
+  {
+    "id": "bc07-15",
+    "complaint": "c07-15",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-23",
+    "supersedes": null
+  },
+  {
+    "id": "bc07-17",
+    "complaint": "c07-17",
+    "inclusion_probability": 0.66,
+    "verdict": "pending",
+    "known": "2026-04-25",
+    "supersedes": null
+  },
+  {
+    "id": "bc08-00",
+    "complaint": "c08-00",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-08",
+    "supersedes": null
+  },
+  {
+    "id": "bc08-01",
+    "complaint": "c08-01",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-09",
+    "supersedes": null
+  },
+  {
+    "id": "bc08-02",
+    "complaint": "c08-02",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-10",
+    "supersedes": null
+  },
+  {
+    "id": "bc08-03",
+    "complaint": "c08-03",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-11",
+    "supersedes": null
+  },
+  {
+    "id": "bc08-04",
+    "complaint": "c08-04",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-12",
+    "supersedes": null
+  },
+  {
+    "id": "bc08-05",
+    "complaint": "c08-05",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-13",
+    "supersedes": null
+  },
+  {
+    "id": "bc08-06",
+    "complaint": "c08-06",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-14",
+    "supersedes": null
+  },
+  {
+    "id": "bc08-07",
+    "complaint": "c08-07",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-15",
+    "supersedes": null
+  },
+  {
+    "id": "bc08-08",
+    "complaint": "c08-08",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-16",
+    "supersedes": null
+  },
+  {
+    "id": "bc08-09",
+    "complaint": "c08-09",
+    "inclusion_probability": 0.66,
+    "verdict": "disputed",
+    "known": "2026-04-17",
+    "supersedes": null
+  },
+  {
+    "id": "bc08-10",
+    "complaint": "c08-10",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-18",
+    "supersedes": null
+  },
+  {
+    "id": "bc08-11",
+    "complaint": "c08-11",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-19",
+    "supersedes": null
+  },
+  {
+    "id": "bc08-12",
+    "complaint": "c08-12",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-20",
+    "supersedes": null
+  },
+  {
+    "id": "bc08-13",
+    "complaint": "c08-13",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-21",
+    "supersedes": null
+  },
+  {
+    "id": "bc08-14",
+    "complaint": "c08-14",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-22",
+    "supersedes": null
+  },
+  {
+    "id": "bc08-15",
+    "complaint": "c08-15",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-23",
+    "supersedes": null
+  },
+  {
+    "id": "bc08-16",
+    "complaint": "c08-16",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-24",
+    "supersedes": null
+  },
+  {
+    "id": "bc08-17",
+    "complaint": "c08-17",
+    "inclusion_probability": 0.66,
+    "verdict": "pending",
+    "known": "2026-04-25",
+    "supersedes": null
+  },
+  {
+    "id": "bc09-00",
+    "complaint": "c09-00",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-08",
+    "supersedes": null
+  },
+  {
+    "id": "bc09-02",
+    "complaint": "c09-02",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-10",
+    "supersedes": null
+  },
+  {
+    "id": "bc09-03",
+    "complaint": "c09-03",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-11",
+    "supersedes": null
+  },
+  {
+    "id": "bc09-05",
+    "complaint": "c09-05",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-13",
+    "supersedes": null
+  },
+  {
+    "id": "bc09-06",
+    "complaint": "c09-06",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-14",
+    "supersedes": null
+  },
+  {
+    "id": "bc09-08",
+    "complaint": "c09-08",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-16",
+    "supersedes": null
+  },
+  {
+    "id": "bc09-09",
+    "complaint": "c09-09",
+    "inclusion_probability": 0.66,
+    "verdict": "disputed",
+    "known": "2026-04-17",
+    "supersedes": null
+  },
+  {
+    "id": "bc09-11",
+    "complaint": "c09-11",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-19",
+    "supersedes": null
+  },
+  {
+    "id": "bc09-12",
+    "complaint": "c09-12",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-20",
+    "supersedes": null
+  },
+  {
+    "id": "bc09-14",
+    "complaint": "c09-14",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-22",
+    "supersedes": null
+  },
+  {
+    "id": "bc09-15",
+    "complaint": "c09-15",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-23",
+    "supersedes": null
+  },
+  {
+    "id": "bc09-17",
+    "complaint": "c09-17",
+    "inclusion_probability": 0.66,
+    "verdict": "pending",
+    "known": "2026-04-25",
+    "supersedes": null
+  },
+  {
+    "id": "bc10-00",
+    "complaint": "c10-00",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-08",
+    "supersedes": null
+  },
+  {
+    "id": "bc10-01",
+    "complaint": "c10-01",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-09",
+    "supersedes": null
+  },
+  {
+    "id": "bc10-02",
+    "complaint": "c10-02",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-10",
+    "supersedes": null
+  },
+  {
+    "id": "bc10-03",
+    "complaint": "c10-03",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-11",
+    "supersedes": null
+  },
+  {
+    "id": "bc10-04",
+    "complaint": "c10-04",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-12",
+    "supersedes": null
+  },
+  {
+    "id": "bc10-05",
+    "complaint": "c10-05",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-13",
+    "supersedes": null
+  },
+  {
+    "id": "bc10-06",
+    "complaint": "c10-06",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-14",
+    "supersedes": null
+  },
+  {
+    "id": "bc10-07",
+    "complaint": "c10-07",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-15",
+    "supersedes": null
+  },
+  {
+    "id": "bc10-08",
+    "complaint": "c10-08",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-16",
+    "supersedes": null
+  },
+  {
+    "id": "bc10-09",
+    "complaint": "c10-09",
+    "inclusion_probability": 0.66,
+    "verdict": "disputed",
+    "known": "2026-04-17",
+    "supersedes": null
+  },
+  {
+    "id": "bc10-10",
+    "complaint": "c10-10",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-18",
+    "supersedes": null
+  },
+  {
+    "id": "bc10-11",
+    "complaint": "c10-11",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-19",
+    "supersedes": null
+  },
+  {
+    "id": "bc10-12",
+    "complaint": "c10-12",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-20",
+    "supersedes": null
+  },
+  {
+    "id": "bc10-13",
+    "complaint": "c10-13",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-21",
+    "supersedes": null
+  },
+  {
+    "id": "bc10-14",
+    "complaint": "c10-14",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-22",
+    "supersedes": null
+  },
+  {
+    "id": "bc10-15",
+    "complaint": "c10-15",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-23",
+    "supersedes": null
+  },
+  {
+    "id": "bc10-16",
+    "complaint": "c10-16",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-24",
+    "supersedes": null
+  },
+  {
+    "id": "bc10-17",
+    "complaint": "c10-17",
+    "inclusion_probability": 0.66,
+    "verdict": "pending",
+    "known": "2026-04-25",
+    "supersedes": null
+  },
+  {
+    "id": "bc11-00",
+    "complaint": "c11-00",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-08",
+    "supersedes": null
+  },
+  {
+    "id": "bc11-02",
+    "complaint": "c11-02",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-10",
+    "supersedes": null
+  },
+  {
+    "id": "bc11-03",
+    "complaint": "c11-03",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-11",
+    "supersedes": null
+  },
+  {
+    "id": "bc11-05",
+    "complaint": "c11-05",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-13",
+    "supersedes": null
+  },
+  {
+    "id": "bc11-06",
+    "complaint": "c11-06",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-14",
+    "supersedes": null
+  },
+  {
+    "id": "bc11-08",
+    "complaint": "c11-08",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-16",
+    "supersedes": null
+  },
+  {
+    "id": "bc11-09",
+    "complaint": "c11-09",
+    "inclusion_probability": 0.66,
+    "verdict": "disputed",
+    "known": "2026-04-17",
+    "supersedes": null
+  },
+  {
+    "id": "bc11-11",
+    "complaint": "c11-11",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-19",
+    "supersedes": null
+  },
+  {
+    "id": "bc11-12",
+    "complaint": "c11-12",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-20",
+    "supersedes": null
+  },
+  {
+    "id": "bc11-14",
+    "complaint": "c11-14",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-22",
+    "supersedes": null
+  },
+  {
+    "id": "bc11-15",
+    "complaint": "c11-15",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-23",
+    "supersedes": null
+  },
+  {
+    "id": "bc11-17",
+    "complaint": "c11-17",
+    "inclusion_probability": 0.66,
+    "verdict": "pending",
+    "known": "2026-04-25",
+    "supersedes": null
+  },
+  {
+    "id": "bc12-00",
+    "complaint": "c12-00",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-08",
+    "supersedes": null
+  },
+  {
+    "id": "bc12-01",
+    "complaint": "c12-01",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-09",
+    "supersedes": null
+  },
+  {
+    "id": "bc12-02",
+    "complaint": "c12-02",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-10",
+    "supersedes": null
+  },
+  {
+    "id": "bc12-03",
+    "complaint": "c12-03",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-11",
+    "supersedes": null
+  },
+  {
+    "id": "bc12-04",
+    "complaint": "c12-04",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-12",
+    "supersedes": null
+  },
+  {
+    "id": "bc12-05",
+    "complaint": "c12-05",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-13",
+    "supersedes": null
+  },
+  {
+    "id": "bc12-06",
+    "complaint": "c12-06",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-14",
+    "supersedes": null
+  },
+  {
+    "id": "bc12-07",
+    "complaint": "c12-07",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-15",
+    "supersedes": null
+  },
+  {
+    "id": "bc12-08",
+    "complaint": "c12-08",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-16",
+    "supersedes": null
+  },
+  {
+    "id": "bc12-09",
+    "complaint": "c12-09",
+    "inclusion_probability": 0.66,
+    "verdict": "disputed",
+    "known": "2026-04-17",
+    "supersedes": null
+  },
+  {
+    "id": "bc12-10",
+    "complaint": "c12-10",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-18",
+    "supersedes": null
+  },
+  {
+    "id": "bc12-11",
+    "complaint": "c12-11",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-19",
+    "supersedes": null
+  },
+  {
+    "id": "bc12-12",
+    "complaint": "c12-12",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-20",
+    "supersedes": null
+  },
+  {
+    "id": "bc12-13",
+    "complaint": "c12-13",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-21",
+    "supersedes": null
+  },
+  {
+    "id": "bc12-14",
+    "complaint": "c12-14",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-22",
+    "supersedes": null
+  },
+  {
+    "id": "bc12-15",
+    "complaint": "c12-15",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-23",
+    "supersedes": null
+  },
+  {
+    "id": "bc12-16",
+    "complaint": "c12-16",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-24",
+    "supersedes": null
+  },
+  {
+    "id": "bc12-17",
+    "complaint": "c12-17",
+    "inclusion_probability": 0.66,
+    "verdict": "pending",
+    "known": "2026-04-25",
+    "supersedes": null
+  },
+  {
+    "id": "bc13-00",
+    "complaint": "c13-00",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-08",
+    "supersedes": null
+  },
+  {
+    "id": "bc13-02",
+    "complaint": "c13-02",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-10",
+    "supersedes": null
+  },
+  {
+    "id": "bc13-03",
+    "complaint": "c13-03",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-11",
+    "supersedes": null
+  },
+  {
+    "id": "bc13-05",
+    "complaint": "c13-05",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-13",
+    "supersedes": null
+  },
+  {
+    "id": "bc13-06",
+    "complaint": "c13-06",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-14",
+    "supersedes": null
+  },
+  {
+    "id": "bc13-08",
+    "complaint": "c13-08",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-16",
+    "supersedes": null
+  },
+  {
+    "id": "bc13-09",
+    "complaint": "c13-09",
+    "inclusion_probability": 0.66,
+    "verdict": "disputed",
+    "known": "2026-04-17",
+    "supersedes": null
+  },
+  {
+    "id": "bc13-11",
+    "complaint": "c13-11",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-19",
+    "supersedes": null
+  },
+  {
+    "id": "bc13-12",
+    "complaint": "c13-12",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-20",
+    "supersedes": null
+  },
+  {
+    "id": "bc13-14",
+    "complaint": "c13-14",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-22",
+    "supersedes": null
+  },
+  {
+    "id": "bc13-15",
+    "complaint": "c13-15",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-23",
+    "supersedes": null
+  },
+  {
+    "id": "bc13-17",
+    "complaint": "c13-17",
+    "inclusion_probability": 0.66,
+    "verdict": "pending",
+    "known": "2026-04-25",
+    "supersedes": null
+  },
+  {
+    "id": "bc14-00",
+    "complaint": "c14-00",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-08",
+    "supersedes": null
+  },
+  {
+    "id": "bc14-01",
+    "complaint": "c14-01",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-09",
+    "supersedes": null
+  },
+  {
+    "id": "bc14-02",
+    "complaint": "c14-02",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-10",
+    "supersedes": null
+  },
+  {
+    "id": "bc14-03",
+    "complaint": "c14-03",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-11",
+    "supersedes": null
+  },
+  {
+    "id": "bc14-04",
+    "complaint": "c14-04",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-12",
+    "supersedes": null
+  },
+  {
+    "id": "bc14-05",
+    "complaint": "c14-05",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-13",
+    "supersedes": null
+  },
+  {
+    "id": "bc14-06",
+    "complaint": "c14-06",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-14",
+    "supersedes": null
+  },
+  {
+    "id": "bc14-07",
+    "complaint": "c14-07",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-15",
+    "supersedes": null
+  },
+  {
+    "id": "bc14-08",
+    "complaint": "c14-08",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-16",
+    "supersedes": null
+  },
+  {
+    "id": "bc14-09",
+    "complaint": "c14-09",
+    "inclusion_probability": 0.66,
+    "verdict": "disputed",
+    "known": "2026-04-17",
+    "supersedes": null
+  },
+  {
+    "id": "bc14-10",
+    "complaint": "c14-10",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-18",
+    "supersedes": null
+  },
+  {
+    "id": "bc14-11",
+    "complaint": "c14-11",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-19",
+    "supersedes": null
+  },
+  {
+    "id": "bc14-12",
+    "complaint": "c14-12",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-20",
+    "supersedes": null
+  },
+  {
+    "id": "bc14-13",
+    "complaint": "c14-13",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-21",
+    "supersedes": null
+  },
+  {
+    "id": "bc14-14",
+    "complaint": "c14-14",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-22",
+    "supersedes": null
+  },
+  {
+    "id": "bc14-15",
+    "complaint": "c14-15",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-23",
+    "supersedes": null
+  },
+  {
+    "id": "bc14-16",
+    "complaint": "c14-16",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-24",
+    "supersedes": null
+  },
+  {
+    "id": "bc14-17",
+    "complaint": "c14-17",
+    "inclusion_probability": 0.66,
+    "verdict": "pending",
+    "known": "2026-04-25",
+    "supersedes": null
+  },
+  {
+    "id": "bc15-00",
+    "complaint": "c15-00",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-22",
+    "supersedes": null
+  },
+  {
+    "id": "bc15-02",
+    "complaint": "c15-02",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-24",
+    "supersedes": null
+  },
+  {
+    "id": "bc15-03",
+    "complaint": "c15-03",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-25",
+    "supersedes": null
+  },
+  {
+    "id": "bc15-05",
+    "complaint": "c15-05",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-27",
+    "supersedes": null
+  },
+  {
+    "id": "bc15-06",
+    "complaint": "c15-06",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-28",
+    "supersedes": null
+  },
+  {
+    "id": "bc15-08",
+    "complaint": "c15-08",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-30",
+    "supersedes": null
+  },
+  {
+    "id": "bc15-09",
+    "complaint": "c15-09",
+    "inclusion_probability": 0.66,
+    "verdict": "disputed",
+    "known": "2026-05-01",
+    "supersedes": null
+  },
+  {
+    "id": "bc15-11",
+    "complaint": "c15-11",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-05-03",
+    "supersedes": null
+  },
+  {
+    "id": "bc15-12",
+    "complaint": "c15-12",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-05-04",
+    "supersedes": null
+  },
+  {
+    "id": "bc15-14",
+    "complaint": "c15-14",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-05-06",
+    "supersedes": null
+  },
+  {
+    "id": "bc15-15",
+    "complaint": "c15-15",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-05-06",
+    "supersedes": null
+  },
+  {
+    "id": "bc15-17",
+    "complaint": "c15-17",
+    "inclusion_probability": 0.66,
+    "verdict": "pending",
+    "known": "2026-05-06",
+    "supersedes": null
+  },
+  {
+    "id": "bc16-00",
+    "complaint": "c16-00",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-22",
+    "supersedes": null
+  },
+  {
+    "id": "bc16-01",
+    "complaint": "c16-01",
+    "inclusion_probability": null,
+    "verdict": "valid",
+    "known": "2026-04-23",
+    "supersedes": null
+  },
+  {
+    "id": "bc16-02",
+    "complaint": "c16-02",
+    "inclusion_probability": null,
+    "verdict": "valid",
+    "known": "2026-04-24",
+    "supersedes": null
+  },
+  {
+    "id": "bc16-03",
+    "complaint": "c16-03",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-25",
+    "supersedes": null
+  },
+  {
+    "id": "bc16-04",
+    "complaint": "c16-04",
+    "inclusion_probability": null,
+    "verdict": "invalid",
+    "known": "2026-04-26",
+    "supersedes": null
+  },
+  {
+    "id": "bc16-05",
+    "complaint": "c16-05",
+    "inclusion_probability": null,
+    "verdict": "valid",
+    "known": "2026-04-27",
+    "supersedes": null
+  },
+  {
+    "id": "bc16-06",
+    "complaint": "c16-06",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-28",
+    "supersedes": null
+  },
+  {
+    "id": "bc16-07",
+    "complaint": "c16-07",
+    "inclusion_probability": null,
+    "verdict": "valid",
+    "known": "2026-04-29",
+    "supersedes": null
+  },
+  {
+    "id": "bc16-08",
+    "complaint": "c16-08",
+    "inclusion_probability": null,
+    "verdict": "valid",
+    "known": "2026-04-30",
+    "supersedes": null
+  },
+  {
+    "id": "bc16-09",
+    "complaint": "c16-09",
+    "inclusion_probability": 0.66,
+    "verdict": "disputed",
+    "known": "2026-05-01",
+    "supersedes": null
+  },
+  {
+    "id": "bc16-10",
+    "complaint": "c16-10",
+    "inclusion_probability": null,
+    "verdict": "valid",
+    "known": "2026-05-02",
+    "supersedes": null
+  },
+  {
+    "id": "bc16-11",
+    "complaint": "c16-11",
+    "inclusion_probability": null,
+    "verdict": "valid",
+    "known": "2026-05-03",
+    "supersedes": null
+  },
+  {
+    "id": "bc16-12",
+    "complaint": "c16-12",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-05-04",
+    "supersedes": null
+  },
+  {
+    "id": "bc16-13",
+    "complaint": "c16-13",
+    "inclusion_probability": null,
+    "verdict": "valid",
+    "known": "2026-05-05",
+    "supersedes": null
+  },
+  {
+    "id": "bc16-14",
+    "complaint": "c16-14",
+    "inclusion_probability": null,
+    "verdict": "invalid",
+    "known": "2026-05-06",
+    "supersedes": null
+  },
+  {
+    "id": "bc16-15",
+    "complaint": "c16-15",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-05-06",
+    "supersedes": null
+  },
+  {
+    "id": "bc16-16",
+    "complaint": "c16-16",
+    "inclusion_probability": null,
+    "verdict": "valid",
+    "known": "2026-05-06",
+    "supersedes": null
+  },
+  {
+    "id": "bc16-17",
+    "complaint": "c16-17",
+    "inclusion_probability": null,
+    "verdict": "pending",
+    "known": "2026-05-06",
+    "supersedes": null
+  },
+  {
+    "id": "bc17-00",
+    "complaint": "c17-00",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-22",
+    "supersedes": null
+  },
+  {
+    "id": "bc17-02",
+    "complaint": "c17-02",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-24",
+    "supersedes": null
+  },
+  {
+    "id": "bc17-03",
+    "complaint": "c17-03",
+    "inclusion_probability": 0.66,
+    "verdict": "invalid",
+    "known": "2026-04-25",
+    "supersedes": null
+  },
+  {
+    "id": "bc17-05",
+    "complaint": "c17-05",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-04-27",
+    "supersedes": null
+  },
+  {
+    "id": "bc17-06",
+    "complaint": "c17-06",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-04-28",
+    "supersedes": null
+  },
+  {
+    "id": "bc17-08",
+    "complaint": "c17-08",
+    "inclusion_probability": 0.8,
+    "verdict": "invalid",
+    "known": "2026-04-30",
+    "supersedes": null
+  },
+  {
+    "id": "bc17-09",
+    "complaint": "c17-09",
+    "inclusion_probability": 0.66,
+    "verdict": "disputed",
+    "known": "2026-05-01",
+    "supersedes": null
+  },
+  {
+    "id": "bc17-11",
+    "complaint": "c17-11",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-05-03",
+    "supersedes": null
+  },
+  {
+    "id": "bc17-12",
+    "complaint": "c17-12",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-05-04",
+    "supersedes": null
+  },
+  {
+    "id": "bc17-14",
+    "complaint": "c17-14",
+    "inclusion_probability": 0.8,
+    "verdict": "valid",
+    "known": "2026-05-06",
+    "supersedes": null
+  },
+  {
+    "id": "bc17-15",
+    "complaint": "c17-15",
+    "inclusion_probability": 0.66,
+    "verdict": "valid",
+    "known": "2026-05-06",
+    "supersedes": null
+  },
+  {
+    "id": "bc17-17",
+    "complaint": "c17-17",
+    "inclusion_probability": 0.66,
+    "verdict": "pending",
+    "known": "2026-05-06",
+    "supersedes": null
+  },
+  {
+    "id": "withdraw-1",
+    "complaint": "c07-06",
+    "inclusion_probability": 0.8,
+    "verdict": "withdrawn",
+    "known": "2026-05-05",
+    "supersedes": "bc07-06"
+  }
+]

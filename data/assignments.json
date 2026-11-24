@@ -1,0 +1,218 @@
+[
+  {
+    "id": "pool-00",
+    "city": "city-1",
+    "arm": "control",
+    "assignment_probability": 0.5,
+    "assigned_at": "2026-04-01",
+    "fallback": false,
+    "merchants": [
+      "m00a",
+      "m00b"
+    ]
+  },
+  {
+    "id": "pool-01",
+    "city": "city-2",
+    "arm": "control",
+    "assignment_probability": 0.5,
+    "assigned_at": "2026-04-01",
+    "fallback": false,
+    "merchants": [
+      "m01a",
+      "m01b"
+    ]
+  },
+  {
+    "id": "pool-02",
+    "city": "city-3",
+    "arm": "control",
+    "assignment_probability": 0.5,
+    "assigned_at": "2026-04-01",
+    "fallback": false,
+    "merchants": [
+      "m02a",
+      "m02b"
+    ]
+  },
+  {
+    "id": "pool-03",
+    "city": "city-1",
+    "arm": "alt",
+    "assignment_probability": 0.5,
+    "assigned_at": "2026-04-01",
+    "fallback": false,
+    "merchants": [
+      "m03a",
+      "m03b"
+    ]
+  },
+  {
+    "id": "pool-04",
+    "city": "city-2",
+    "arm": "alt",
+    "assignment_probability": 0.5,
+    "assigned_at": "2026-04-01",
+    "fallback": true,
+    "merchants": [
+      "m04a",
+      "m04b"
+    ]
+  },
+  {
+    "id": "pool-05",
+    "city": "city-3",
+    "arm": "alt",
+    "assignment_probability": 0.5,
+    "assigned_at": "2026-04-01",
+    "fallback": false,
+    "merchants": [
+      "m05a",
+      "m05b"
+    ]
+  },
+  {
+    "id": "pool-06",
+    "city": "city-1",
+    "arm": "control",
+    "assignment_probability": 0.5,
+    "assigned_at": "2026-04-01",
+    "fallback": false,
+    "merchants": [
+      "m06a",
+      "m06b"
+    ]
+  },
+  {
+    "id": "pool-07",
+    "city": "city-2",
+    "arm": "control",
+    "assignment_probability": 0.5,
+    "assigned_at": "2026-04-01",
+    "fallback": false,
+    "merchants": [
+      "m07a",
+      "m07b"
+    ]
+  },
+  {
+    "id": "pool-08",
+    "city": "city-3",
+    "arm": "control",
+    "assignment_probability": 0.5,
+    "assigned_at": "2026-04-01",
+    "fallback": false,
+    "merchants": [
+      "m08a",
+      "m08b"
+    ]
+  },
+  {
+    "id": "pool-09",
+    "city": "city-1",
+    "arm": "alt",
+    "assignment_probability": 0.5,
+    "assigned_at": "2026-04-01",
+    "fallback": false,
+    "merchants": [
+      "m09a",
+      "m09b"
+    ]
+  },
+  {
+    "id": "pool-10",
+    "city": "city-2",
+    "arm": "alt",
+    "assignment_probability": 0.5,
+    "assigned_at": "2026-04-01",
+    "fallback": false,
+    "merchants": [
+      "m10a",
+      "m10b"
+    ]
+  },
+  {
+    "id": "pool-11",
+    "city": "city-3",
+    "arm": "alt",
+    "assignment_probability": 0.5,
+    "assigned_at": "2026-04-01",
+    "fallback": false,
+    "merchants": [
+      "m11a",
+      "m11b"
+    ]
+  },
+  {
+    "id": "pool-12",
+    "city": "city-1",
+    "arm": "control",
+    "assignment_probability": 0.5,
+    "assigned_at": "2026-04-01",
+    "fallback": false,
+    "merchants": [
+      "m12a",
+      "m12b"
+    ]
+  },
+  {
+    "id": "pool-13",
+    "city": "city-2",
+    "arm": "control",
+    "assignment_probability": 0.5,
+    "assigned_at": "2026-04-01",
+    "fallback": true,
+    "merchants": [
+      "m13a",
+      "m13b"
+    ]
+  },
+  {
+    "id": "pool-14",
+    "city": "city-3",
+    "arm": "control",
+    "assignment_probability": 0.5,
+    "assigned_at": "2026-04-01",
+    "fallback": false,
+    "merchants": [
+      "m14a",
+      "m14b"
+    ]
+  },
+  {
+    "id": "pool-15",
+    "city": "city-1",
+    "arm": "alt",
+    "assignment_probability": 0.5,
+    "assigned_at": "2026-04-01",
+    "fallback": false,
+    "merchants": [
+      "m15a",
+      "m15b"
+    ]
+  },
+  {
+    "id": "pool-16",
+    "city": "city-2",
+    "arm": "alt",
+    "assignment_probability": 0.5,
+    "assigned_at": "2026-04-01",
+    "fallback": false,
+    "merchants": [
+      "m16a",
+      "m16b"
+    ]
+  },
+  {
+    "id": "pool-17",
+    "city": "city-3",
+    "arm": "alt",
+    "assignment_probability": 0.5,
+    "assigned_at": "2026-04-01",
+    "fallback": false,
+    "merchants": [
+      "m17a",
+      "m17b"
+    ]
+  }
+]

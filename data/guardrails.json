@@ -1,0 +1,26 @@
+[
+  {
+    "city": "city-1",
+    "size": "small",
+    "max_miss_delta": 0.04,
+    "max_invalid_action_delta": 0.03,
+    "confidence": 0.9,
+    "staff_hours_per_check": 1
+  },
+  {
+    "city": "city-2",
+    "size": "small",
+    "max_miss_delta": 0.04,
+    "max_invalid_action_delta": 0.03,
+    "confidence": 0.9,
+    "staff_hours_per_check": 1
+  },
+  {
+    "city": "city-3",
+    "size": "small",
+    "max_miss_delta": 0.04,
+    "max_invalid_action_delta": 0.03,
+    "confidence": 0.9,
+    "staff_hours_per_check": 1
+  }
+]
